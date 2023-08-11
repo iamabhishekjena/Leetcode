@@ -8,5 +8,10 @@ public class Solution {
 
         Ques728 ques728 = new Ques728();
         System.out.println(ques728.selfDividingNumbers(1,22));
+
+
+
+        Ques1281 ques1281 = new Ques1281();
+        System.out.println(ques1281.subtractProductAndSum(234));
     }
 }
