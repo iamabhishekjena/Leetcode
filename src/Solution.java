@@ -13,5 +13,8 @@ public class Solution {
 
         Ques1281 ques1281 = new Ques1281();
         System.out.println(ques1281.subtractProductAndSum(234));
+
+        Ques125 ques125 = new Ques125();
+        System.out.println(ques125.isPalindrome("A man, a plan, a canal: Panama"));
     }
 }
